@@ -29,6 +29,11 @@ public class Tdd1 {
         } else {
             return false;
         }
+
+    }
+    public static boolean isPrime(int number) {
+
+        return false;
     }
 }
 
