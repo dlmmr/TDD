@@ -46,6 +46,6 @@ class Tdd1Test {
         //When
         boolean actual = Tdd1.isPalindrom(text);
         //Then
-        assertEquals(expected,actual);
+        assertEquals(expected,actual); //hallo
     }
 }
